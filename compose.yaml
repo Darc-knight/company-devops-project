@@ -1,0 +1,7 @@
+
+services:
+  website:
+    image: amasiatu/company-devops-project:v1
+    container_name: company-devops-website
+    ports:
+      - "8080:80"
