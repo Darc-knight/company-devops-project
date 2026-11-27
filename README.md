@@ -516,7 +516,6 @@ Recommended screenshots:
 
 ![Live Website](screenshots/website-live.png)
 
-
 ## Project Status
 
 The project has progressed through:
