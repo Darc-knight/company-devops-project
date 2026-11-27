@@ -506,18 +506,16 @@ Recommended screenshots:
 4. EC2 terminal showing the running Docker Compose container.
 5. AWS EC2 console showing the running instance.
 
-```markdown
-
 ![GitHub Actions Success](screenshots/github-actions-success.png)
 
 ![Docker Hub Tags](screenshots/docker-hub-tags.png)
 
 ![AWS Deployment](screenshots/aws-deployment.png)
 
- ![AWS EC2 Instance](screenshots/aws-ec2-instance.png)
+![AWS EC2 Instance](screenshots/aws-ec2-instance.png)
 
 ![Live Website](screenshots/website-live.png)
-```
+
 
 ## Project Status
 
